@@ -1,10 +1,14 @@
 # MET provenance gaps and actors of African Art Objects
 
-This repository is a template for publishing a Python project as a website using **GitHub Pages**. The page you're reading right now is the site's home page — it's just the `README.md` file from the repo, turned into a web page.
+The Metropolitian Museum of Art is an encylopedic collection of art and artifacts from a variety of cultures that span centuries. However, the origins of many of these objects specifically within the African art collection has significant gaps and uncertainties within the provenance records. I chose to investigate these gaps and the actors associated with African cultural objects created between 1800 and 2000.
+
+
+
+**GitHub Pages**. The page you're reading right now is the site's home page — it's just the `README.md` file from the repo, turned into a web page.
 
 Everything here is plain Markdown. GitHub pages renders markdown as HTML so it is viewable in the browser.
 
-## Pages in This Site
+## Context and Methodology
 
 This home page links to two other Markdown files in the repo. Click them to see linking in action:
 
