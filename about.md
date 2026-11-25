@@ -1,20 +1,16 @@
-# Markdown examples
+# Objects Investigated
 
 [← Back to home](README.md)
 
-### Images
+### Seated Couple- Dogon artist
 
-To add an image, put the image file in the repo and link to it with an exclamation mark in front:
 
-```markdown
-![Bar chart of average US Senate polling by state](average-senate-polling-late-october-nov.png)
-```
+![Dogon Seated Couple](seated_couple.jpg)
+*A highlighted object within the collection which notably has a creation date ranging from 18th- early 19th century and a first provenance date of 1977*
 
 ![Bar chart of average US Senate polling by state, split into Democrat, other/undecided, and Republican voter intention](average-senate-polling-late-october-nov.png)
 
-*Average US Senate polling by state, late October to November 2.*
 
-The text in the square brackets is the **alt text**.
 
 Markdown images always fill the width of the page. To choose a size, use an HTML `<img>` tag instead. This works on GitHub.com and on the published site:
 
@@ -26,9 +22,9 @@ Markdown images always fill the width of the page. To choose a size, use an HTML
 
 *Artists with the most works with "women" in the title.*
 
-### Tables
+### Actors within the Collection
 
-Markdown tables use `|` to separate columns, and a row of dashes under the header row. Add a `:` on the right side of the dashes to right-align a column, which makes numbers easier to compare:
+Regular expressions allowed the instances of provenance to be 
 
 ```markdown
 |       | objectID  | isHighlight |

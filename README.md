@@ -1,22 +1,22 @@
 # MET provenance gaps and actors of African Art Objects
 
-The Metropolitian Museum of Art is an encylopedic collection of art and artifacts from a variety of cultures that span centuries. However, the origins of many of these objects specifically within the African art collection has significant gaps and uncertainties within the provenance records. I chose to investigate these gaps and the actors associated with African cultural objects created between 1800 and 2000.
+The Metropolitian Museum of Art is an encylopedic collection of art and artifacts from a variety of cultures that span centuries. However, the origins of many of these objects specifically within the African art collection has significant gaps and uncertainties within the provenance records. I chose to investigate these gaps and the actors associated with African cultural objects created between the 19th and 20th centuries.
 
+## Process Disclaimers
 
+I had originally planned to utilize the MET's API which has 56 columns of information, however, notably lacks provenance as a category. To troubleshoot this issue, I applied webscraping individual pages in order to obtain provenance records from JSON embedded into HTML. Due to the lack of automation available for the webscraping, I had collected a sample of 210 records between the 19th and 20th centuries on the default 'relavance' sort through their web facing collection search. Further research could include a larger sample since 2,815 objects are within the time frame of creation and from Africa.
 
-**GitHub Pages**. The page you're reading right now is the site's home page — it's just the `README.md` file from the repo, turned into a web page.
+The MET API groups objects by Department and notably the African Art falls under the Michael C. Rockefeller Wing which includes Africa, Oceania, and the Americas. This is notably the only category named after a wing rather than the region and is also difficult to then locate items as a filter would need to include 56 countries within the continent. 
 
-Everything here is plain Markdown. GitHub pages renders markdown as HTML so it is viewable in the browser.
 
 ## Context and Methodology
 
 This home page links to two other Markdown files in the repo. Click them to see linking in action:
 
-- [Markdown examples](about.md) — an example page with embedded tables and images
-- [Code examples](embedding-code.md) — an example page with code examples (both as static markdown and as interactive [pyodide](https://pyodide.org/en/stable/) snippets)
+- [Objects Investigated](about.md) — an example page with embedded tables and images
+- [Backend Methodology](embedding-code.md) — an example page with code examples (both as static markdown and as interactive [pyodide](https://pyodide.org/en/stable/) snippets)
 - [A JupyterLite notebook](notebook/notebooks/index.html?path=week10.ipynb) hosted on your GitHub pages site, which can run in the browser without your viewers needing to have Jupyter Lab/Anaconda etc installed
 
-Each of those pages links back here and to each other. You can open them on GitHub.com *and* on the published site — the same links work in both places.
 
 ## How It Works
 
